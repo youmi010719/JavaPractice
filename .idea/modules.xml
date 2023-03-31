@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaEntry/JavaEntry.iml" filepath="$PROJECT_DIR$/JavaEntry/JavaEntry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToObject/ToObject.iml" filepath="$PROJECT_DIR$/ToObject/ToObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaException/javaException.iml" filepath="$PROJECT_DIR$/javaException/javaException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFansei/javaFansei.iml" filepath="$PROJECT_DIR$/javaFansei/javaFansei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFanxin/javaFanxin.iml" filepath="$PROJECT_DIR$/javaFanxin/javaFanxin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSet/javaSet.iml" filepath="$PROJECT_DIR$/javaSet/javaSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kernelClass/kernelClass.iml" filepath="$PROJECT_DIR$/kernelClass/kernelClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webserver/webserver.iml" filepath="$PROJECT_DIR$/webserver/webserver.iml" />
+    </modules>
+  </component>
+</project>
